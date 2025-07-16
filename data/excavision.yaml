@@ -1,0 +1,6 @@
+train: /home/sheida/yolov10/data/images/train
+val: /home/sheida/yolov10/data/images/val
+
+nc: 1
+names: ['excavator']
+
